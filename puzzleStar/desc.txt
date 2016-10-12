@@ -1,0 +1,15 @@
+
+MusicControl-Music Widget for Notification Center
+
+
+Put all of your favorite playlists, songs, albums in your Music Control widget and then play them instantly right from the Notification Center. Unlike the dock or home screen, Notification Center can always be accessed with one swipe even if you're in an app, an app folder or even the lock screen.
+
+FEATURES:
+
+- Handy music controls to pause/skip and repeat/shuffle in widget
+- See currently playing song info in widget
+- Easy to edit and reorder your song lists
+- Play your playlists from Today Notification Center with one tap.
+- Easy to set up and use.
+
+All of this is available for free! 

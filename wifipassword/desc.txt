@@ -1,0 +1,5 @@
+ This app displays all the WiFi passwords you have entered when connecting to secure networks. 
+Very handy if you forgot a password and need to connect another device, or tell a friend the password for a coffee shop without asking that embarrassing question again. 
+Tap hold on the password to copy it to the clipboard. 
+
+wifipassword,wifipasswords,wifi password,wifi passwords,wi-fi passwords,wi-fi password,wifi helper

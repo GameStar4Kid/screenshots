@@ -1,0 +1,19 @@
+
+Ping Pong Multiplayer
+
+
+Ping Pong Multiplayer is the classic game of pong reinvented.
+
+Compete with your friends and family or work together and reach new high scores!
+To play, just hold your finger on your racket and drag it up and down, keep hitting the ball for as long as possible!
+
+Collect coins and unlock cool balls or fun logo's for your side of the screen.
+
+FEATURES:
+* There are 2 modes: play with AI or friend.
+* Solid and fun physics!
+* Simple yet enjoyable game play!
+* Work together and beat your high score!
+* Improve your sense of timing and reflexes!
+* Collect Coins to unlock new things!
+* Addictive and fast paced 
